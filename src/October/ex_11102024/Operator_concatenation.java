@@ -1,6 +1,6 @@
 package October.ex_11102024;
 
-public class Operator_Concatination {
+public class Operator_concatenation {
 
     public static void main(String[] args) {
 
