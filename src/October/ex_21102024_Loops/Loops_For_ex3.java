@@ -1,5 +1,5 @@
 package October.ex_21102024_Loops;
-public class Loops_For3 {
+public class Loops_For_ex3 {
     public static void main(String[] args) {
 
         for (int i = 0; ; i++) {
