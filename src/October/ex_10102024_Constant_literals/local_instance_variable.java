@@ -29,6 +29,6 @@ public class local_instance_variable {
         System.out.println("double default value :" + a5);
         System.out.println("float default value :" + a6);
         System.out.println("Char default value :" + a7);
-        System.out.println("String default value :" + a8);
+        System.out.println("String_ex1 default value :" + a8);
     }
 }

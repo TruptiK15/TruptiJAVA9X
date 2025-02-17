@@ -8,7 +8,7 @@ public class Operator_Example1 {
         String lname = "Keni";
         int a = 10;
         int b = 20;
-        System.out.println(fname + lname + a + b);    //TruptiKeni1020 (concatination) - first is String
+        System.out.println(fname + lname + a + b);    //TruptiKeni1020 (concatination) - first is String_ex1
         System.out.println(a + b + fname + lname);    //30TruptiKeni --> First math then concatination
         System.out.println(fname + lname + (a + b));    //TruptiKeni30 --> Both
 

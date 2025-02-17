@@ -8,7 +8,7 @@ public class Function_Built_In {
         - User Defined Functions
 
         // Built-In Functions
-        - String --> .length, .toLowerCase(), .CharAt(), .Trim(), .Split()
+        - String_ex1 --> .length, .toLowerCase(), .CharAt(), .Trim(), .Split()
         - Math --> max, min, avg, cos, sin
         - StringBuffer --> reverse(), trim(), parseInt(),
         */

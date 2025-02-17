@@ -9,13 +9,14 @@ public class Task1_Function_Calculator {
                 System.out.println("Enter no2 : ");
                 int b = sc.nextInt();
 
-                System.out.println(add(a,b));
-                System.out.println(subtract(a,b));
-                System.out.println(multiply(a,b));
-                System.out.println(divide(a,b));
+                System.out.println("Add : " + add(a,b));
+                System.out.println("Subtract : " + subtract(a,b));
+                System.out.println("Multiply : " + multiply(a,b));
+                System.out.println("Divide : " + divide(a,b));
                 sc.close();
         }
-
+        //Find Edge cases and invalid input (divided by zero and enter string, float, other datatype)
+        //Exception Handling
         public static int add(int a, int b) {
                 return a + b;
         }

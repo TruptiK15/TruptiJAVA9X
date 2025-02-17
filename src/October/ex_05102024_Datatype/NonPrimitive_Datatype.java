@@ -5,6 +5,6 @@ public class NonPrimitive_Datatype {
 
         //Non-Primitive Datatype
         String name = "Trupti";
-        System.out.println("String : " + name);
+        System.out.println("String_ex1 : " + name);
     }
 }

@@ -29,7 +29,7 @@ public class Task1010_Types_of_literal {
         char AA = '\u0061';  // as unicode representation u0061 is present a.
         char BB = '\n';    // Escape Sequence
 
-        //String Literals double quote ("") marks. These characters can be alphanumeric,
+        //String_ex1 Literals double quote ("") marks. These characters can be alphanumeric,
         // special characters, blank spaces, etc.
         String G = "Learning Java";
         String GG = "123AAA";

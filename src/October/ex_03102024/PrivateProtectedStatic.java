@@ -8,15 +8,15 @@ public class PrivateProtectedStatic {
     }
     /*
     --Private Class
-     private static void main(String[] args) {
+     private static void main(String_ex1[] args) {
 
     }
     --Static Class
-    static void main(String[] args) {
+    static void main(String_ex1[] args) {
 
     }
      --Protected Class
-    protected static void main(String[] args) {
+    protected static void main(String_ex1[] args) {
 
     }
 
