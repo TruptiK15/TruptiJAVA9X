@@ -7,7 +7,7 @@ public class Exception_ex1 {
         try {
             c = 10/a;   //unchecked - ArithmeticException
             Strings s1 = null;
-            s1.trim();
+            //s1.trim();
 
         } catch (ArithmeticException | NullPointerException e) {
             System.out.println(e.getMessage());

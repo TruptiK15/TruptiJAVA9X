@@ -5,7 +5,7 @@ public class Expection_Multiple_Catch {
 
         System.out.println("Start of program..");
         Strings ip = args[0];    //from edit configuration - value 100
-        int a = Integer.parseInt(ip);
+        int a = Integer.parseInt(ip.toString());
         int b = 0;
         try {
             b = 1000 / a;

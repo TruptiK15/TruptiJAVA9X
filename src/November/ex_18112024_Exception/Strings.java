@@ -8,4 +8,8 @@ public class Strings {
         System.out.println(c);
         //concatination
     }
+
+    public boolean equalsIgnoreCase(String inr) {
+        return false;
+    }
 }

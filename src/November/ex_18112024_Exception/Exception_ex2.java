@@ -7,7 +7,7 @@ public class Exception_ex2 {
         try {
             c = 10/a;   //unchecked - ArithmeticException
             Strings s1 = null;
-            s1.trim();
+            //s1.trim();
 
         }catch (Exception e) {
             System.out.println(e.getMessage());

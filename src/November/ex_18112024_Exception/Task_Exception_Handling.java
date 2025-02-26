@@ -5,7 +5,7 @@ public class Task_Exception_Handling {
 
         try {
             // Handling ArrayIndexOutOfBoundsException
-            Strings s1 = "Pramod";
+            String s1 = "Pramod";
             Strings s2 = args[0];
             System.out.println("Command-line argument: " + s2);
 

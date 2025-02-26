@@ -5,7 +5,7 @@ public class Exception_ex4 {
 
         try {
             // Handling ArrayIndexOutOfBoundsException - if args not pass
-            Strings s1 = "Pramod";
+            String s1 = "Pramod";
             Strings s2 = args[0];
 
             // Handling ArithmeticException if divide by 0

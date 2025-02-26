@@ -2,19 +2,19 @@ package November.ex_18112024_Exception;
 
 public class Bank {
 
-    private Strings currency;
+    private String currency;
     private Integer amount;
 
-    Bank(Strings currency, Integer amount) {
+    public Bank(String currency, Integer amount) {
         this.currency = currency;
         this.amount = amount;
     }
 
-    public Strings getCurrency() {
+    public String getCurrency() {
         return currency;
     }
 
-    public void setCurrency(Strings currency) {
+    public void setCurrency(String currency) {
         this.currency = currency;
     }
 
