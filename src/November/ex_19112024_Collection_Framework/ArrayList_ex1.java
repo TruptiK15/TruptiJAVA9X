@@ -3,9 +3,10 @@ package November.ex_19112024_Collection_Framework;
 import java.util.ArrayList;
 
 public class ArrayList_ex1 {
-    // ArrayList
+    // ---- ArrayList -------
     // List - An ordered Collection (i.e., sequence)
     // dupicate is allowed
+    // control over insertion
     public static void main(String[] args) {
 
         //Collection list2 = new ArrayList();   //Dyanmic Dispatch

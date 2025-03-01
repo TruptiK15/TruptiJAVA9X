@@ -1,4 +1,4 @@
-package November.ex_19112024_Generics;
+package November.ex_19112024_cGenerics;
 
 public class Generics_Solution {
 
