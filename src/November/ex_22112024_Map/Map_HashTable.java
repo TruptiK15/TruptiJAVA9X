@@ -1,7 +1,7 @@
 package November.ex_22112024_Map;
 import java.util.Enumeration;
 import java.util.Hashtable;
-public class Ma_HashTable {
+public class Map_HashTable {
     public static void main(String[] args) {
 
         /* HashTable -
